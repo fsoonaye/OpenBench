@@ -14,10 +14,12 @@ Media/*
 !Client/*.py
 !Client/cutechess-ob
 !Client/cutechess-ob.exe
+!Client/cutechess-ob-linux
 
 Media/PGNs/*
 Media/Networks/*
 Media/Events/*
 
+*.DS_Store
 *.lock
 *.epd
